@@ -1,0 +1,6 @@
+{
+  "name": "Lavida Hotel",
+  "description": "An ultra-premium, 5-star boutique luxury hotel and suites located in Port Harcourt, Nigeria, offering cinematic comfort, fine dining, and hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
